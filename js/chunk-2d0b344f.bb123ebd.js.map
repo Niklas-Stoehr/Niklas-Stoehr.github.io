@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./pkg/minimax.js"],"names":[],"mappings":"kHAAA","file":"js/chunk-2d0b344f.bb123ebd.js","sourcesContent":["import * as wasm from \"./minimax_bg.wasm\";\nexport * from \"./minimax_bg.js\";"],"sourceRoot":""}
